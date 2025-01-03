@@ -2,7 +2,7 @@
 title: My Jekyll Site
 description: A simple Jekyll site hosted on GitHub Pages
 baseurl: "" # Leave this empty if deploying to the root of GitHub Pages
-url: "https://<your-username>.github.io" # Replace <your-username> with your GitHub username
+url: "https://victoriabiagi.github.io" # Replace <your-username> with your GitHub username
 
 # Build settings
 theme: minima # Default theme provided by Jekyll
