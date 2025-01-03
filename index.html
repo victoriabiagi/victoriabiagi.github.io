@@ -3,52 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Cayman Style Website</title>
+    <title>Welcome to Victoria Biagi's Website</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <!-- Cayman default styles -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pages-themes/cayman@v0.2.0/assets/css/style.css">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 2em;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 1em;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #0366d6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 2em;
+            font-size: 0.9em;
+            color: #555;
+        }
+        section {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1em;
+            border-bottom: 1px solid #ddd;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Victoria Biagi</h1>
+        <h1>Welcome to Victoria Biagi's Website</h1>
         <nav>
             <ul>
                 <li><a href="about.html">About</a></li>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="contact.html">Contact</a></li>
+                <li><a href="uploads/resume.pdf" target="_blank">Resume</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         <section>
-            <h2>About Us</h2>
-            <p>This is a brief introduction about the website. Customize it as needed.</p>
+            <h2>About Me</h2>
+            <p>Hello! I'm Victoria Biagi. Welcome to my personal website where I share my projects, blog posts, and more.</p>
+            <p>Feel free to explore and learn more about my work!</p>
         </section>
 
         <section>
-            <h2>Latest Blog Posts</h2>
+            <h2>Portfolio</h2>
+            <p>Check out some of my latest work:</p>
             <ul>
-                <!-- Loop over blog posts if using Jekyll -->
-                {% for post in site.posts %}
-                <li>
-                    <a href="{{ post.url }}">{{ post.title }}</a>
-                    <span>({{ post.date | date: "%B %d, %Y" }})</span>
-                </li>
-                {% endfor %}
+                <li><a href="projects/project1.html">Project 1: Responsive Web Design</a></li>
+                <li><a href="projects/project2.html">Project 2: Interactive Form</a></li>
+                <li><a href="projects/project3.html">Project 3: JavaScript Game</a></li>
             </ul>
         </section>
 
         <section>
-            <h2>Uploads</h2>
-            <a href="uploads/sample.pdf">Download our brochure</a>
+            <h2>Contact Me</h2>
+            <p>Have questions or want to work together? Reach out via the <a href="contact.html">Contact</a> page or email me at <a href="mailto:victoriabiagi@example.com">victoriabiagi@example.com</a>.</p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2025 My Cayman Style Website</p>
+        <p>&copy; 2025 Victoria Biagi. All rights reserved.</p>
     </footer>
 </body>
 </html>
-
