@@ -5,10 +5,10 @@ baseurl: "" # Leave this empty if deploying to the root of GitHub Pages
 url: "https://<your-username>.github.io" # Replace <your-username> with your GitHub username
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima # Default theme provided by Jekyll
 plugins:
-- jekyll-feed # Optional plugin for RSS feed
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed # Optional plugin for RSS feed
+  
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
