@@ -5,32 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to Victoria Biagi's Website</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pages-themes/cayman@v0.2.0/assets/css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abadi">
     <style>
         body {
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Abadi', sans-serif;
             color: #333;
             margin: 0;
         }
         header {
-            background: url('https://via.placeholder.com/1920x400') no-repeat center center;
+            background: url('assets/website1.jpg') no-repeat center center;
             background-size: cover;
             color: white;
-            text-align: center;
-            padding: 5em 1em;
             position: relative;
-        }
-        header h1 {
-            font-size: 3em;
-            margin: 0;
+            padding-top: 5em;
+            padding-bottom: 5em;
         }
         header nav {
-            position: absolute;
+            position: fixed;
             top: 0;
             width: 100%;
-            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+            background-color: #c87c46; /* Requested color */
             padding: 0.5em 0;
+            z-index: 10;
         }
         header nav ul {
             list-style: none;
@@ -49,6 +45,19 @@
             font-size: 1.2em;
         }
         nav ul li a:hover {
+            text-decoration: underline;
+        }
+        .site-title {
+            position: absolute;
+            top: 0;
+            left: 1em;
+            color: white;
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 0.5em;
+            text-decoration: none;
+        }
+        .site-title:hover {
             text-decoration: underline;
         }
         footer {
@@ -71,6 +80,7 @@
 <body>
     <header>
         <nav>
+            <a href="index.html" class="site-title">Victoria Biagi</a>
             <ul>
                 <li><a href="about.html">About</a></li>
                 <li><a href="portfolio.html">Portfolio</a></li>
@@ -110,4 +120,3 @@
     </footer>
 </body>
 </html>
-
