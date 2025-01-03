@@ -11,22 +11,45 @@
         body {
             font-family: 'Open Sans', sans-serif;
             color: #333;
+            margin: 0;
         }
         header {
+            background: url('https://via.placeholder.com/1920x400') no-repeat center center;
+            background-size: cover;
+            color: white;
             text-align: center;
-            margin-bottom: 2em;
+            padding: 5em 1em;
+            position: relative;
         }
-        nav ul {
+        header h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        header nav {
+            position: absolute;
+            top: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+            padding: 0.5em 0;
+        }
+        header nav ul {
             list-style: none;
+            margin: 0;
             padding: 0;
+            text-align: center;
         }
-        nav ul li {
+        header nav ul li {
             display: inline;
-            margin: 0 1em;
+            margin: 0 1.5em;
         }
-        nav ul li a {
+        header nav ul li a {
             text-decoration: none;
-            color: #0366d6;
+            color: white;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        nav ul li a:hover {
+            text-decoration: underline;
         }
         footer {
             text-align: center;
@@ -40,22 +63,23 @@
             padding: 1em;
             border-bottom: 1px solid #ddd;
         }
-        h1, h2 {
+        h2 {
             text-align: center;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to Victoria Biagi's Website</h1>
         <nav>
             <ul>
                 <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="contact.html">Contact</a></li>
                 <li><a href="uploads/resume.pdf" target="_blank">Resume</a></li>
             </ul>
         </nav>
+        <h1>Welcome to Victoria Biagi's Website</h1>
     </header>
 
     <main>
@@ -86,3 +110,4 @@
     </footer>
 </body>
 </html>
+
