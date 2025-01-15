@@ -1,8 +1,8 @@
 ---
 title: "All Along the Watchtower: the Localised Effects of Public Space Protection Orders in London"
-coauthor: "Enrico Cavallotti and Abhinav Khemka"
-presented: CLEAN Workshop (Bocconi University, 2024)
-infodownload: Slides (21/12/2024)
+coauthor: '<span style="font-style:italic;">with Enrico Cavallotti and Abhinav Khemka</span>'
+description: '<span style="font-weight: bold; color: #006400">Presented at:</span> CLEAN Unit Winter Workshop (Bocconi University, 2024) </span>'
+infodownload: '<span style="color:green; font-weight:bold;">Download:</span> <span style="color:green; font-style:italic;"><a href="/assets/Presentation_PSPO_CLEAN_VB.pdf">Slides (19/12/2024)</a></span>'
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
