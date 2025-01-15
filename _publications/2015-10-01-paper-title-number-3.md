@@ -1,7 +1,7 @@
 ---
 title: "Another Brick in the Wall: Repurposing Mafia Properties for Local Education"
-description: "NWSSDTP conference (2024, Lancaster University) - AMBS Doctoral Conference (2024, University of Manchester) - CLEAN UNIT (2024, Bocconi University)"
-infodownload: "Accessible upon request"
+description: 'NWSSDTP conference (2024, Lancaster University) - AMBS Doctoral Conference (2024, University of Manchester) - CLEAN UNIT (2024, Bocconi University)'
+infodownload: 'Accessible upon request'
 collection: publications
 category: manuscripts
 # permalink: /publication/2015-10-01-paper-title-number-3
