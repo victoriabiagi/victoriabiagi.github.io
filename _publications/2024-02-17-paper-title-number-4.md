@@ -1,5 +1,6 @@
 ---
 title: "The Mafia and the Legal System: Analyzing the Historical Shift Toward Alternative Conflict Resolution Mechanisms"
+coauthor: "Giuseppe De Feo and Giacomo De Luca"
 collection: work in progress
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
