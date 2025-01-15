@@ -30,12 +30,14 @@
   {{ title }}
 </h2>
 
-<p>
-  <span style="color: darkgreen;">Presented at:</span> {{ description }}
+
+<p class="presentation-info">
+  <span class="presentation-label">Presented at:</span> {{ page.description }}
 </p>
 
-  <span style="font-style: italic; color: darkgreen;">Download:</span> {{ infodownload }}
-
+<p class="download-info">
+  <span class="download-label">Download:</span> {{ page.infodownload }}
+</p>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
