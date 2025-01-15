@@ -19,8 +19,8 @@ My work mainly relates to political economy, urban economics, and economic histo
 
 <!-- Images side by side -->
 <div style="display: flex; justify-content: center; text-align: center; gap: 20px;">
-    <img src="images/WhatsApp Image 2025-01-03 at 12.28.32 (1).png" alt="Lake District view 1" style="width: 48%;"/>
-    <img src="images/WhatsApp Image 2025-01-03 at 12.28.32.png" alt="Lake District view 2" style="width: 48%;"/>
+    <img src="/images/1000126121.png" alt="Lake District view 1" style="width: 48%;"/>
+    <img src="/images/1000126122.png" alt="Lake District view 2" style="width: 48%;"/>
 </div>
 
 
