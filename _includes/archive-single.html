@@ -26,8 +26,10 @@
       </div>
     {% endif %}
 
-   <h2 class="archive__item-title" itemprop="headline">
-  {{ title }}
+<h2 class="archive__item-title" itemprop="headline">
+  <a href="{{ post.link }}" style="text-decoration: none; color: inherit;">
+    {{ title }}
+  </a>
 </h2>
 
 
@@ -36,7 +38,9 @@
 </p>
 
 <p class="download-info">
-  <span style="font-style: italic; color: #006400;">Download:</span> {{ post.infodownload }}
+  <span style="font-style: italic; color: #006400;">Download:</span>
+  <span style="font-style: italic;">{{ post.infodownload }}</span>
+</p>
 </p>
     
     {% if post.read_time %}
