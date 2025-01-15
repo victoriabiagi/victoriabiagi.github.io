@@ -1,7 +1,7 @@
 ---
 title: "The Mafia and the Legal System: Analyzing the Historical Shift Toward Alternative Conflict Resolution Mechanisms"
-coauthor: "Giuseppe De Feo and Giacomo De Luca"
-collection: work in progress
+coauthor: '<span style="font-style:italic;">with Giuseppe De Feo and Giacomo De Luca</span>'
+collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '**Abstract**: Mafia groups have been developing their power and local control over Sicily since the 19th century by enforcing an alternative institutional system with its own laws. In this paper, we test the historical effect of the Mafia on the legal judiciary as an alternative mechanism of conflict resolution. Under an IV approach, we find that the presence of the Mafia reduces the number of lawyers and the number of civil sentences at the tribunal level.'
