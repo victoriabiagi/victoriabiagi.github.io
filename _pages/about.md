@@ -11,9 +11,8 @@ I am a PhD candidate in Economics at the [University of Liverpool](https://www.l
 
 My work mainly relates to political economy, urban economics, and economic history, focusing on the economics of crime. I am currently exploring how crime, organized crime and the public policies to address them affect social outcomes and voting behaviour, utilizing georeferenced and historical data. In my free time, I enjoy painting and crafting, playing the guitar, going for runs, and travelling.  
 
-
 <div style="text-align: center;">
-  <p style="margin-bottom: 15px; font-style: italic;">Orrest Head, Lake District, UK.</p>
+  <p style="margin-bottom: 15px; font-style: italic;">Orrest Head, Lake District, UK</p>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="WhatsApp Image 2025-01-03 at 12.28.32.jpg" alt="" style="width: 300px; height: auto; border-radius: 8px;">
     <img src="WhatsApp Image 2025-01-03 at 12.28.32 (1).jpg" alt="" style="width: 300px; height: auto; border-radius: 8px;">
