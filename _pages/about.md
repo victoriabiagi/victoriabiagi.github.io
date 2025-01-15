@@ -15,8 +15,8 @@ My work mainly relates to political economy, urban economics, and economic histo
 <div style="text-align: center;">
   <p style="margin-bottom: 15px; font-style: italic;">Orrest Head, Lake District, UK.</p>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="path-to-your-first-image.jpg" alt="" style="width: 300px; height: auto; border-radius: 8px;">
-    <img src="path-to-your-second-image.jpg" alt="" style="width: 300px; height: auto; border-radius: 8px;">
+    <img src="WhatsApp Image 2025-01-03 at 12.28.32.jpg" alt="" style="width: 300px; height: auto; border-radius: 8px;">
+    <img src="WhatsApp Image 2025-01-03 at 12.28.32 (1).jpg" alt="" style="width: 300px; height: auto; border-radius: 8px;">
   </div>
 </div>
 
