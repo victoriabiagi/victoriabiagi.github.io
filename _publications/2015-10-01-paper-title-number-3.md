@@ -1,7 +1,7 @@
 ---
 title: "Another Brick in the Wall: Repurposing Mafia Properties for Local Education"
 description: '<span style="font-weight: bold; color: #006400">Presented at:</span> NWSSDTP conference (Lancaster University, 2024) - AMBS Doctoral Conference (University of Manchester, 2024) - CLEAN Unit (Bocconi University, 2024)'
-infodownload: '<span style="color:green; font-weight:bold;">Download:</span> <span style="font-style:italic; color:#006400">Accessible upon request</span>'
+infodownload: '<span style="font-weight:bold; color:#006400;">Download:</span> <span style="font-style:italic; color:#006400">Accessible upon request</span>'
 collection: publications
 category: manuscripts
 # permalink: /publication/2015-10-01-paper-title-number-3
