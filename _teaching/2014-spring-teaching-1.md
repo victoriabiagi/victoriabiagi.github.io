@@ -10,10 +10,4 @@ permalink: /teaching/2014-spring-teaching-1
 # location: 
 
 ---
-======
 
-Heading 2
-======
-
-Heading 3
-======
