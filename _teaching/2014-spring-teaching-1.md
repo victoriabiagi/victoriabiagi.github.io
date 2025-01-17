@@ -3,9 +3,9 @@ title: "University of Liverpool"
 collection: teaching
 # type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "economics Group"
+# venue: "economics Group"
 # date: ''
-location: "Liverpool, UK"
+# location: "Liverpool, UK"
 
 ---
 ======
