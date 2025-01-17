@@ -1,5 +1,5 @@
 ---
-# title: "University of Liverpool"
+# title:
 collection: teaching
 subheading: Academic year 2023/2024
 description: ECON121 - Principles of Microeconomics
