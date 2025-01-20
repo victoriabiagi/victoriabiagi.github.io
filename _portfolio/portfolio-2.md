@@ -6,5 +6,4 @@ excerpt: "In January 2018 I co-founded *Opera APS*, a Circolo ARCI and cultural 
     <img src="/images/WhatsApp%20Image%202025-01-17%20at%2011.14.50%20(1).jpeg" style="width: 48%;"/>
 </div>"
 collection: portfolio
-
 ---
