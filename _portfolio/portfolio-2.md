@@ -4,9 +4,14 @@ excerpt: "In January 2018 I co-founded *Opera APS*, a Circolo ARCI and cultural 
 collection: portfolio
 ---
 
-<!-- This is where the images should go in the body of the page -->
+<!-- Centered description -->
+<div style="text-align: center;">
+    <p><strong>Orrest Head, Lake District, UK</strong></p>
+</div>
+
+<!-- Images side by side -->
 <div style="display: flex; justify-content: center; text-align: center; gap: 20px;">
-    <img src="/images/portfolio1.jpeg" style="width: 48%;" />
-    <img src="/images/portfolio2.jpeg" style="width: 48%;" />
+    <img src="/images/1000126121.png" alt="Lake District view 1" style="width: 48%;"/>
+    <img src="/images/1000126122.png" alt="Lake District view 2" style="width: 48%;"/>
 </div>
 
