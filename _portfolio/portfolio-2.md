@@ -4,9 +4,9 @@ excerpt: "In January 2018 I co-founded *Opera APS*, a Circolo ARCI and cultural 
 collection: portfolio
 ---
 
-<!-- Images side by side -->
+<!-- This is where the images should go in the body of the page -->
 <div style="display: flex; justify-content: center; text-align: center; gap: 20px;">
-    <img src="/images/photo1.jpeg" style="width: 48%;"/>
-    <img src="/images/photo2.jpeg" style="width: 48%;"/>
-</div> 
+    <img src="/images/photo1.jpeg" style="width: 48%;" />
+    <img src="/images/photo2.jpeg" style="width: 48%;" />
+</div>
 
