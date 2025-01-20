@@ -6,6 +6,6 @@ collection: portfolio
 
 <!-- Images side by side -->
 <div style="display: flex; justify-content: center; text-align: center; gap: 20px;">
-    <img src="/images/WhatsApp%20Image%202025-01-17%20at%2011.14.50.jpeg" alt="Image 1" style="width: 48%;"/>
-    <img src="/images/WhatsApp%20Image%202025-01-20%20at%2012.14.25.jpeg" alt="Image 2" style="width: 48%;"/>
+    <img src="./images/WhatsApp%20Image%202025-01-17%20at%2011.14.50.jpeg" alt="Image 1" style="width: 48%;"/>
+    <img src="./images/WhatsApp%20Image%202025-01-20%20at%2012.14.25.jpeg" alt="Image 2" style="width: 48%;"/>
 </div>
