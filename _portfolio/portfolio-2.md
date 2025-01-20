@@ -7,7 +7,7 @@ In January 2018, I co-founded *Opera APS*, a Circolo ARCI and cultural center th
 
 The same year, I joined *Libera. Associazioni, Nomi e Numeri contro le Mafie* as a volunteer. Libera is a nationally recognized association working on raising awareness about Mafia infiltrations and the threats posed by organized crime in Italy. I also volunteered and took part in projects to restore Mafia-confiscated properties in the South of Italy.
 
-<div>
-    <img src="/images/portfolio1.png" alt="Lake District view 1" />
-    <img src="/images/portfolio2.png" alt="Lake District view 2" />
+<div style="display: flex; justify-content: center; text-align: center; gap: 20px;">
+    <img src="/images/1000126121.png" alt="Lake District view 1" style="width: 48%;"/>
+    <img src="/images/1000126122.png" alt="Lake District view 2" style="width: 48%;"/>
 </div>
