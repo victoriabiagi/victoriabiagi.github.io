@@ -1,17 +1,21 @@
 .container {
     width:100%;
-    border:1px solid #d3d3d3;
+    border none;
 }
 .container div {
-    width:100%;
+    width: 100%;  /* Ensure child divs also take up full width */
 }
+
 .container .header {
-    background-color:#d3d3d3;
+    background-color: #d3d3d3;
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
+    width: 100%; /* Ensure the header spans the full width */
 }
+
 .container .content {
-    display: none;
-    padding : 5px;
+    display: block; /* Make sure it's visible */
+    padding: 5px;
+    width: 100%; /* Ensure content spans the full width */
 }
