@@ -14,7 +14,7 @@ My work mainly relates to political economy, urban economics, and economic histo
 
 <!-- Centered description -->
 <div style="text-align: center;">
-    <p><strong>Orrest Head, Lake District, UK</strong></p>
+    <p><strong style="color: #006400;">Orrest Head, Lake District, UK</strong></p>
 </div>
 
 <!-- Images side by side -->
