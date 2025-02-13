@@ -27,8 +27,7 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-{% assign sorted_posts = site.publications | sort: 'title' %}
-{% for post in sorted_posts %}
+{% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
