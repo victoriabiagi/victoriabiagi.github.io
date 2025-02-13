@@ -3,7 +3,7 @@ title: "The murder in the markeplace: the historical effects of police and arbit
 coauthor: '<span style="font-style:italic;">with Zach Porreca and Alex Cardazzi</span>'
 # description: ''
 infodownload: '<span style="font-weight:bold; color:#006400;">Download:</span> <span style="font-style:italic; color:#006400">Accessible upon request and publicly available soon</span>'
-
+weight: 2
 collection: publications
 category: manuscripts
 # permalink: /publication/2016-10-01-paper-title-number-2
