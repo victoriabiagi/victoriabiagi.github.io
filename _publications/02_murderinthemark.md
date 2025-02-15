@@ -1,8 +1,8 @@
 ---
-title: "The murder in the markeplace: the historical effects of police and arbitration in London"
+title: "Murder in the Markeplace"
 coauthor: '<span style="font-style:italic;">with Zach Porreca and Alex Cardazzi</span>'
 # description: ''
-infodownload: '<span style="font-weight:bold; color:#006400;">Download:</span> <span style="font-style:italic; color:#006400">Accessible upon request and publicly available soon</span>'
+infodownload: '<span style="font-weight:bold; color:#006400;">Download:</span> <a href="assets/murderinthemarketplace.pdf" target="_blank" style="font-style:italic; color:#006400;">and publicly available soon</a>' and available online soon</span>'
 weight: 2
 collection: publications
 category: manuscripts
