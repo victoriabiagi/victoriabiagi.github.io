@@ -6,6 +6,7 @@ infodownload: >
   <span style="font-weight:bold; color:#006400;">Download</span> 
   <a href="assets/ssrn-5138103.pdf" target="_blank" 
      style="font-style:italic; color:#006400;">
+     </a>
 weight: 2
 collection: publications
 category: manuscripts
