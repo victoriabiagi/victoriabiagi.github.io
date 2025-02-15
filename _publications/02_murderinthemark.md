@@ -4,7 +4,7 @@ coauthor: '<span style="font-style:italic;">with Zach Porreca and Alex Cardazzi<
 # description: ''
 infodownload: >
   <span style="font-weight:bold; color:#006400;">Download</span> 
-  <a href="assets/ssrn-5138103.pdf" target="_blank" 
+  <a href="victoriabiagi.github.io/assets/ssrn-5138103.pdf" target="_blank" 
      style="font-style:italic; color:#006400;">
      </a>
 weight: 2
