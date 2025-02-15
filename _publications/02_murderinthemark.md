@@ -2,7 +2,12 @@
 title: "Murder in the Markeplace"
 coauthor: '<span style="font-style:italic;">with Zach Porreca and Alex Cardazzi</span>'
 # description: ''
-infodownload: '<span style="font-weight:bold; color:#006400;">Download:</span> <a href="assets/murderinthemarketplace.pdf" target="_blank" style="font-style:italic; color:#006400;">and publicly available soon</a>' and available online soon</span>'
+infodownload: >
+  <span style="font-weight:bold; color:#006400;">Download:</span> 
+  <a href="assets/yourdocument.pdf" target="_blank" 
+     style="font-style:italic; color:#006400;">
+     and publicly available soon
+  </a>
 weight: 2
 collection: publications
 category: manuscripts
