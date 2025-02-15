@@ -4,10 +4,8 @@ coauthor: '<span style="font-style:italic;">with Zach Porreca and Alex Cardazzi<
 # description: ''
 infodownload: >
   <span style="font-weight:bold; color:#006400;">Download:</span> 
-  <a href="assets/yourdocument.pdf" target="_blank" 
+  <a href="assets/ssrn-5138103.pdf" target="_blank" 
      style="font-style:italic; color:#006400;">
-     and publicly available soon
-  </a>
 weight: 2
 collection: publications
 category: manuscripts
