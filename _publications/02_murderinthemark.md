@@ -3,7 +3,7 @@ title: "Murder in the Markeplace"
 coauthor: '<span style="font-style:italic;">with Zach Porreca and Alex Cardazzi</span>'
 # description: ''
 infodownload: >
-  <span style="font-weight:bold; color:#006400;">Download:</span> 
+  <span style="font-weight:bold; color:#006400;">Download</span> 
   <a href="assets/ssrn-5138103.pdf" target="_blank" 
      style="font-style:italic; color:#006400;">
 weight: 2
