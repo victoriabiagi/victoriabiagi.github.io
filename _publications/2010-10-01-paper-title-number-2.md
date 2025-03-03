@@ -2,7 +2,7 @@
 title: "Beyond the Thin Blue Line: the Localised Effects of Public Space Protection Orders in London"
 coauthor: '<span style="font-style:italic;">with Enrico Cavallotti and Abhinav Khemka</span>'
 description: '<span style="font-weight: bold; color: #006400">Presented at:</span> CLEAN Unit Winter Workshop (Bocconi University, 2024) </span>'
-infodownload: '<span style="color:#006400; font-weight:bold;">Download:</span> <span style="font-style:italic; color:#006400;"><a href="/assets/Presentation_PSPO_CLEAN_VB_.pdf" style="color:#006400;">Slides (19/12/2024)</a></span>'
+# infodownload: '<span style="color:#006400; font-weight:bold;">Download:</span> <span style="font-style:italic; color:#006400;"><a href="/assets/Presentation_PSPO_CLEAN_VB_.pdf" style="color:#006400;">Slides (19/12/2024)</a></span>'
 
 collection: publications
 category: conferences
