@@ -1,9 +1,9 @@
 ---
 title: "Murder in the Markeplace"
-coauthor: '<span style="font-style:italic;">with Zach Porreca and Alex Cardazzi</span>'
+coauthor: '<span style="font-style:italic;">with Zachary Porreca and Alexander Cardazzi</span>'
 # description: ''
 infodownload: >
-  <a href="https://victoriabiagi.github.io/assets/ssrn-5138103.pdf" target="_blank" 
+  <a href="[https://victoriabiagi.github.io/assets/ssrn-5138103.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138103)" target="_blank" 
      style="font-weight:bold; color:#006400;">
      Download here
   </a>
