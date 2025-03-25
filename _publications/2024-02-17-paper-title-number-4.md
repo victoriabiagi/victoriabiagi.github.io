@@ -1,7 +1,7 @@
 ---
 title: "The Mafia and the Legal System: Analyzing the Historical Shift Toward Alternative Conflict Resolution Mechanisms"
 coauthor: '<span style="font-style:italic;">with Giuseppe De Feo and Giacomo De Luca</span>'
-description:' <span style="font-weight: bold; color: #006400">Presented at:</span> Administrative Data Workshop (University of Liverpool, 2024) <span>'
+description: <span style="font-weight: bold; color: #006400">Presented at:</span> Administrative Data Workshop (University of Liverpool, 2024)
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
