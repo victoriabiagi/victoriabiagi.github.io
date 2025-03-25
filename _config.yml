@@ -76,14 +76,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Policy'
-  manuscripts:
-    title: 'Working Papers'    
-  conferences:
-    title: 'Work in Progress'
   jobs:
     title: 'Job Market Paper'
+  manuscripts:
+    title: 'Working Papers' 
+  conferences:
+    title: 'Work in Progress'
+  books:
+    title: 'Policy'
+
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
