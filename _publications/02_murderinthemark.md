@@ -1,8 +1,8 @@
 ---
 title: "Murder in the Markeplace"
-coauthor: '<span style="font-style:italic;">with Zachary Porreca and Alexander Cardazzi</span>'
+coauthor: '<span style="font-style:italic;">with [Zachary Porreca](https://zachporreca.github.io/) and [Alexander Cardazzi](https://alexcardazzi.github.io/)</span>'
 description: '<span style="font-weight: italic; color: #006400">BAFFI Centre Research Paper No. 239</span><br>
- <span style="font-weight: bold; color: #006400">Presented at:</span> Internal Micro Applied Seminars (University of Liverpool, 2025)'
+ <span style="font-weight: bold; color: #006400">Presented at:</span> Internal Micro Applied Seminars (University of Liverpool, 2025) - <em>scheduled: ViCE Online Seminars (Summer 2025)</em>''
 infodownload: >
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138103" target="_blank" 
      style="font-weight:bold; color:#006400;">
