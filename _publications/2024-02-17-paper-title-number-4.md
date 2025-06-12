@@ -1,7 +1,7 @@
 ---
-title: "The Mafia and the Legal System: Analyzing the Historical Shift Toward Alternative Conflict Resolution Mechanisms"
+title: "Mafia and Social Order"
 coauthor: '<span style="font-style:italic;">with <a href="https://sites.google.com/view/giuseppedefeo">Giuseppe De Feo</a> and <a href="https://sites.google.com/view/gdeluca/home">Giacomo De Luca</a></span>'
-description: "<span style='font-weight: bold; color: #006400'>Presented at:</span> Administrative Data Workshop (University of Liverpool, 2024)"
+description: "<span style='font-weight: bold; color: #006400'>Presented at:</span> Administrative Data Workshop (University of Liverpool, 2024) - Second City History and Economics Meeting (University of Birmingham, 2025)"
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
