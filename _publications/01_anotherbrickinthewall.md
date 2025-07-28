@@ -1,6 +1,6 @@
 ---
 title: "Another Brick in the Wall: How Repurposed Mafia Properties Affect Local Education and the Perception of Mafia"
-description: '<span style="font-weight: bold; color: #006400">Presented at:</span> NWSSDTP conference (Lancaster University, 2024) - AMBS Doctoral Conference (University of Manchester, 2024) - CLEAN Unit (Bocconi University, 2024) - Women in State Capacity Conference (Oxford Martin School, 2025) - AYEM Online Seminars (2025) - UniMi-JEM 4th Junior Economics Meeting (2025) - <em>scheduled: University of Edinburgh -9th Workshop on the Economics of Organised Crime (2025)</em>'
+description: '<span style="font-weight: bold; color: #006400">Presented at:</span> NWSSDTP conference (Lancaster University, 2024) - AMBS Doctoral Conference (University of Manchester, 2024) - CLEAN Unit (Bocconi University, 2024) - Women in State Capacity Conference (Oxford Martin School, 2025) - AYEM Online Seminars (2025) - UniMi-JEM 4th Junior Economics Meeting (2025) - <em> University of Edinburgh -9th Workshop on the Economics of Organised Crime (2025)</em>'
 infodownload: '<span style="font-weight:bold; color:#006400;">Download:</span> <span style="font-style:italic; color:#006400">Accessible upon request</span>'
 collection: publications
 weight: 1
