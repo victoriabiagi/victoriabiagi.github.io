@@ -1,5 +1,5 @@
 ---
-title: "Another Brick in the Wall? The Educational Effects of Repurposed Mafia Properties"
+title:"Another Brick in the Wall? The Educational Effects of Repurposed Mafia Properties"
 description: '<span style="font-weight: bold; color: #006400">Presented at:</span> NWSSDTP conference (Lancaster University, 2024) - AMBS Doctoral Conference (University of Manchester, 2024) - CLEAN Unit (Bocconi University, 2024) - Women in State Capacity Conference (Oxford Martin School, 2025) - AYEM Online Seminars (2025) - UniMi-JEM 4th Junior Economics Meeting (2025) - University of Edinburgh -9th Workshop on the Economics of Organised Crime (2025) - SAEe 2025 (scheduled)'
 infodownload: '<span style="font-weight:bold; color:#006400;">Download:</span> <span style="font-style:italic; color:#006400">Accessible upon request</span>'
 collection: publications
