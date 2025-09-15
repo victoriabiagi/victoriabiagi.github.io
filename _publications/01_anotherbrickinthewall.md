@@ -6,7 +6,7 @@ description: |
   NWSSDTP conference (Lancaster University, 2024) - AMBS Doctoral Conference (University of Manchester, 2024) - CLEAN Unit (Bocconi University, 2024) - Women in State Capacity Conference (Oxford Martin School, 2025) - AYEM Online Seminars (2025) - UniMi-JEM 4th Junior Economics Meeting (2025) - University of Edinburgh - 9th Workshop on the Economics of Organised Crime (2025) - SAEe 2025 (scheduled)
 
 infodownload: |
-  <a href='https://github.com/victoriabiagi/victoriabiagi.github.io/raw/main/assets/JMP_VB.pdf' download style='font-style:italic; color:#006400; text-decoration:underline;'>Download here</a>
+  <a href='https://victoriabiagi.github.io/assets/JMP_VB.pdf' download style='font-weight:bold; color:#006400; text-decoration:underline;'>Download here</a>
   
 collection: "publications"
 weight: 1
