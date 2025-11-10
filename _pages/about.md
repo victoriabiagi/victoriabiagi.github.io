@@ -11,7 +11,10 @@ I am a PhD candidate in Economics at the [University of Liverpool](https://www.l
 
 My work mainly relates to political economy, urban economics, and economic history, focusing on the economics of crime. I am currently exploring how crime, organized crime and the public policies to address them affect social outcomes and voting behaviour, utilizing georeferenced and historical data. In my free time, I enjoy painting and crafting, playing the guitar, going for runs, and travelling. 
 
-<span style="font-weight: bold; color: #006400"> I am on the job market in the academic year 2025-2026. Check here my [Job Market Paper Video](https://drive.google.com/file/d/17WJHJ3wGuLODIJu84pqCdUr1SqJpRfVF/view)</span>
+<span style="font-weight: bold; color: #006400">
+  I am on the job market in the academic year 2025-2026. 
+  Check here my <a href="https://drive.google.com/file/d/17WJHJ3wGuLODIJu84pqCdUr1SqJpRfVF/view" style="color: #006400;">Job Market Paper Video</a>
+</span>
 
 
 <!-- Centered description -->
