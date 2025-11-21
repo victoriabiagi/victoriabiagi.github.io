@@ -1,5 +1,5 @@
 ---
-title: "University of Liverpool"
+title: ""
 collection: teaching
 subheading: Academic year 2024/2025
 description: ECON112 - Statistics for Economics and Business Students
