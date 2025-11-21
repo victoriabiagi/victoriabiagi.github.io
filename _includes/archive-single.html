@@ -54,10 +54,16 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
-      {% elsif post.collection == 'publications' %}
-       {% endif %}
+{% if post.collection == 'teaching' %}
+  {% if post.type or post.venue %}
+  <p>
+    {% if post.type %}{{ post.type }}{% endif %}
+    {% if post.type and post.venue %}, {% endif %}
+    {% if post.venue %}<i>{{ post.venue }}</i>{% endif %}
+  </p>
+  {% endif %}
+{% elsif post.collection == 'publications' %}
+{% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
