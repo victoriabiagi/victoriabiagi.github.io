@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Thin Blue Line: the Localised Effects of Public Space Protection Orders in London"
+title: "The Unintended Political Consequences of Expanding Police Authority: Evidence From London"
 coauthor: '<span style="font-style: italic;">with <a href="https://enricocavallotti.github.io/">Enrico Cavallotti</a> and <a href="https://abhinavkhemka.com/">Abhinav Khemka</a></span>'
 description: '<span style="font-weight: bold; color: #006400">Presented at:</span> CLEAN Unit Winter Workshop (Bocconi University, 2024) - NWSSDTP Doctoral Conference (Manchester, 2025)'
 # infodownload: '<span style="color:#006400; font-weight:bold;">Download:</span> <span style="font-style:italic; color:#006400;"><a href="/assets/Presentation_PSPO_CLEAN_VB_.pdf" style="color:#006400;">Slides (19/12/2024)</a></span>'
