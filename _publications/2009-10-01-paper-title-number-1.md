@@ -7,7 +7,7 @@ coauthor: '<span style="font-style:italic;">with <a href="https://sites.google.c
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Abstract**: This project investigates the impact of new shopping malls on social capital and education in rural Italy. In small Italian towns, local shops serve as hubs for social interaction, a function malls often lack. We expect shopping mall introduction to affect both the labor market and social capital, indirectly influencing education outcomes over time. Data on mall openings from OpenStreetMap, local employment, salaries, and CSO participation from 1960-2022 will be analyzed. We focus on municipalities with fewer than 5,000 residents, covering 70% of Italy. Additionally, we’re collecting data on school drop-out rates and student performance. The empirical strategy wants to exploit the driving distance from municipalities to shopping malls in rural Italy.'
+excerpt: ''
 # date: ""
 # venue: ""
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
