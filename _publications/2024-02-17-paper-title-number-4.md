@@ -3,7 +3,7 @@ title: "Mafia and Social Order"
 coauthor: '<span style="font-style:italic;">with <a href="https://sites.google.com/view/giuseppedefeo">Giuseppe De Feo</a> and <a href="https://sites.google.com/view/gdeluca/home">Giacomo De Luca</a></span>'
 description: "<span style='font-weight: bold; color: #006400'>Presented at:</span> Administrative Data Workshop (University of Liverpool, 2024) - Second City History and Economics Meeting (University of Birmingham, 2025)"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '**Abstract**: Mafia groups have been developing their power and local control over Sicily since the 19th century by enforcing an alternative institutional system with its own laws. In this paper, we test the historical effect of the Mafia on the legal judiciary as an alternative mechanism of conflict resolution. Under an IV approach, we find that the presence of the Mafia reduces the number of lawyers and the number of civil sentences at the tribunal level.'
 # date: ""
