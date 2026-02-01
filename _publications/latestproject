@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date:
-venue: 
+#date: 2010-10-01
+#venue: 'TBD'
 slideurl: ''
 paperurl: ''
 ---
