@@ -13,7 +13,7 @@ My work mainly relates to political economy, urban economics, and economic histo
 
 <span style="font-weight: bold; color: #006400">
   I am on the job market in the academic year 2025-2026.<br>
-  <a href="/assets/JMP_draft (16).pdf" style="color: #006400;">Job Market Paper</a> <br>
+  <a href="/assets/JMP_0226.pdf" style="color: #006400;">Job Market Paper</a> <br>
 <a href="https://www.youtube.com/watch?v=5GvZzstOofA" style="color: #006400;">Job Market Paper Video</a>
 </span>
 
