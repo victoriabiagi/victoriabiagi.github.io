@@ -3,7 +3,7 @@ title: "Another Brick in the Wall? The Educational Effects of Repurposed Mafia P
 
 description: |
   <span style='font-weight: bold; color: #006400'>Presented at:</span> 
-  NWSSDTP conference (Lancaster University, 2024) - AMBS Doctoral Conference (University of Manchester, 2024) - CLEAN Unit (Bocconi University, 2024) - Women in State Capacity Conference (Oxford Martin School, 2025) - AYEW Online Seminars (2025) - UniMi-JEM 4th Junior Economics Meeting (University of Milan, 2025) - 9th Workshop on the Economics of Organised Crime (University of Edinburgh, 2025) - Workshop on Economics of Education (KU leuven, 2025) - SAEe (Barcelona, 2025) - Milan PhD Workshop (UBocconi, 2026 scheduled) - RES (Newcastle, 2026 scheduled) - EEA (Dublin, 2026 scheduled)
+  NWSSDTP conference (Lancaster University, 2024) - AMBS Doctoral Conference (University of Manchester, 2024) - CLEAN Unit (Bocconi University, 2024) - Women in State Capacity Conference (Oxford Martin School, 2025) - AYEW Online Seminars (2025) - UniMi-JEM 4th Junior Economics Meeting (University of Milan, 2025) - 9th Workshop on the Economics of Organised Crime (University of Edinburgh, 2025) - Workshop on Economics of Education (KU leuven, 2025) - SAEe (Barcelona, 2025) - Milan PhD Workshop (Bocconi University, 2026 scheduled) - RES (University of Newcastle, 2026 scheduled) - EEA (University College Dublin, 2026 scheduled)
 
 infodownload: |
   <a href='https://victoriabiagi.github.io/assets/JMP_0426.pdf' download style='font-weight:bold; color:#006400; text-decoration:underline;'>Download here</a>
