@@ -34,21 +34,15 @@
   <span>{{ post.subheading }}</span>
 </p>
     
-<p class="presentation-info">
-{{ post.coauthor }}
-</p>
-    
-<p class="presentation-info">
-{{ post.description }}
-</p>
-
-    <p class="presentation2-info">
-{{ post.description2 }}
-</p>
-
-<p class="download-info">
-{{ post.infodownload }}
-</p>
+{% if post.collection == 'publications' and post.category == 'jobs' %}
+  <p class="presentation-info">{{ post.coauthor }} - {{ post.description }}</p>
+  <p class="download-info">{{ post.infodownload }}</p>
+{% else %}
+  <p class="presentation-info">{{ post.coauthor }}</p>
+  <p class="presentation-info">{{ post.description }}</p>
+  <p class="presentation2-info">{{ post.description2 }}</p>
+  <p class="download-info">{{ post.infodownload }}</p>
+{% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
