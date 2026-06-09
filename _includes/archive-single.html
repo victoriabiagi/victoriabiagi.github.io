@@ -32,9 +32,6 @@
   {% else %}
     {{ title }}
   {% endif %}
-  {% if post.category == 'jobs' %}
-    <span style="font-size: 0.6em; font-weight: normal; color: #333;"> {{ post.description }}</span>
-  {% endif %}
 </h2>
 
 <p class="subheading" style="font-size: 1em; font-weight: bold; color: #333; margin-top: 15px;">
@@ -42,11 +39,14 @@
 </p>
     
 {% if post.collection == 'publications' and post.category == 'jobs' %}
-  <p class="presentation-info">{{ post.coauthor }} - {{ post.description }}</p>
-  <p class="download-info">{{ post.infodownload }}</p>
+  <p style="font-size: 1em; color: #333; margin-top: 4px;">{{ post.description }}</p>
 {% else %}
-  <p class="presentation-info">{{ post.coauthor }}</p>
-  <p class="presentation-info">{{ post.description }}</p>
+<p class="presentation-info">
+{{ post.coauthor }}
+</p>
+<p class="presentation-info">
+{{ post.description }}
+</p>
   <p class="presentation2-info">{{ post.description2 }}</p>
   <p class="download-info">{{ post.infodownload }}</p>
 {% endif %}
