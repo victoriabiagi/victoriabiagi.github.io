@@ -27,7 +27,11 @@
     {% endif %}
 
 <h2 class="archive__item-title" itemprop="headline">
-  {{ title }}
+  {% if post.category == 'jobs' and post.paperurl %}
+    <a href="{{ post.paperurl }}" target="_blank" style="color: #006400;">{{ title }}</a>
+  {% else %}
+    {{ title }}
+  {% endif %}
 </h2>
 
 <p class="subheading" style="font-size: 1em; font-weight: bold; color: #333; margin-top: 15px;">
