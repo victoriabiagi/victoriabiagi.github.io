@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-<h2 class="archive__item-title" itemprop="headline">
+<h2 class="archive__item-title" itemprop="headline" style="font-size: 1em; margin-bottom: 2px;">
   {% if post.category == 'jobs' and post.paperurl %}
     <a href="{{ post.paperurl }}" target="_blank" style="color: #006400;">{{ title }}</a>
   {% else %}
@@ -41,7 +41,7 @@
 {% if post.collection == 'publications' and post.category == 'jobs' %}
   <p style="font-size: 1em; color: #333; margin-top: 4px;">{{ post.description }}</p>
 {% else %}
-<p class="presentation-info">
+<p class="presentation-info" style="margin-top: 2px;">
 {{ post.coauthor }}
 </p>
 <p class="presentation-info">
