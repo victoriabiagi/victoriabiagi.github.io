@@ -23,9 +23,9 @@
           alt="">
       </div>
     {% endif %}
-<h2 class="archive__item-title" itemprop="headline" style="font-size: 1em; margin-bottom: 0; margin-top: 0;">
+<h2 class="archive__item-title" itemprop="headline" style="font-size: 1em; margin-bottom: 0; margin-top: 0; font-weight: normal; color: #006400;">
   {% if post.category == 'jobs' and post.paperurl %}
-    <a href="{{ post.paperurl }}" target="_blank" style="color: #006400;">{{ title }}</a>
+    <a href="{{ post.paperurl }}" target="_blank" style="color: #006400; font-weight: normal;">{{ title }}</a>
   {% else %}
     {{ title }}
   {% endif %}
