@@ -30,9 +30,11 @@
     {{ title }}
   {% endif %}
 </h2>
-<p class="subheading" style="font-size: 1em; font-weight: bold; color: #333; margin-top: 15px;">
+{% if post.subheading %}
+<p class="subheading" style="font-size: 1em; font-weight: bold; color: #333; margin-top: 0; margin-bottom: 0;">
   <span>{{ post.subheading }}</span>
 </p>
+{% endif %}
     
 {% if post.collection == 'publications' and post.category == 'jobs' %}
   <p style="font-size: 1em; color: #333; margin-top: 0; margin-bottom: 0;">{{ post.description }}</p>
