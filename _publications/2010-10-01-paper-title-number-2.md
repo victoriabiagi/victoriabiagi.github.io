@@ -1,12 +1,8 @@
 ---
 title: "The Unintended Political Consequences of Expanding Police Authority: Evidence From London"
 coauthor: '<span style="font-style: italic;">with <a href="https://enricocavallotti.github.io/">Enrico Cavallotti</a> and <a href="https://abhinavkhemka.com/">Abhinav Khemka</a></span>'
-description: '<span style="font-weight: bold; color: #006400">Presented at:</span> CLEAN Unit Winter Workshop (Bocconi University, 2024) - NWSSDTP Doctoral Conference (Manchester, 2025)'
-infodownload: >
-  <a href="https://victoriabiagi.github.io/assets/PSPO_0526.pdf" target="_blank" 
-     style="font-weight: bold; color: #006400;">
-     Download here
-  </a>
+description: '<span style="font-weight; color: #006400">Presented at:</span> CLEAN Unit Winter Workshop (Bocconi University, 2024) - NWSSDTP Doctoral Conference (Manchester, 2025)'
+# infodownload:
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
@@ -16,7 +12,7 @@ order: 1
 # date: ""
 # venue: ""
 # slidesurl: 
-# paperurl: 
+paperurl: 'https://victoriabiagi.github.io/assets/PSPO_0526.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
