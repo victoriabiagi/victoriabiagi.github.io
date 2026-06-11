@@ -13,7 +13,7 @@ My work mainly relates to political economy, urban economics, and economic histo
 <!-- Next Talks -->
 <div style="margin-top: 20px;">
     <p style="color: #006400;"><strong>Next Talks:</strong><br/>
-    Human Capital and Diversity Workshop 2026 - University of Exeter<br/>
+    CLEAN Unit Summer Workshop <br/>
     RES 2026 Conference - University of Newcastle<br/>
     EEA 2026 - University College Dublin</p>
 </div>
