@@ -1,5 +1,6 @@
 ---
 title: "Mafia and Social Order"
+order: 1
 coauthor: '<span style="font-style:italic;">with <a href="https://sites.google.com/view/giuseppedefeo">Giuseppe De Feo</a> and <a href="https://sites.google.com/view/gdeluca/home">Giacomo De Luca</a></span>'
 description: "<span style='font-weight: bold; color: #006400'>Presented at:</span> Administrative Data Workshop (University of Liverpool, 2024) - Second City History and Economics Meeting (University of Birmingham, 2025)"
 collection: publications
