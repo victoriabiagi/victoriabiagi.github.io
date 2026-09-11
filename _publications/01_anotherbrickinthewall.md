@@ -15,7 +15,7 @@ excerpt: |
  <span style='font-weight; color: #006400'>Abstract:</span> Italy’s anti-Mafia legislation allows confiscated Mafia properties to be converted into educational, cultural, and welfare facilities where local NGOs offer various social activities specifically targeting youth and other vulnerable groups. This study provides the first causal estimation of how exposure to these repurposed spaces affects students’ dropout rates by changing their attitudes toward educational and criminal pathways. Using school-level geo-referenced data from 2015 to 2022 and exploiting the staggered timing of property reuse, I investigate changes in local dropout rates. Results reveal a significant reduction in dropout rates of approximately 34% relative to the mean for students near repurposed properties. I show that these facilities reshape students’ beliefs, reducing the appeal of Mafia networks while increasing the value of formal education. The effects are not explained by gentrification, additional educational support, or civic engagement levels.
 
 # slidesurl: "http://academicpages.github.io/files/slides3.pdf"
-paperurl: 'https://victoriabiagi.github.io/assets/JMP_0426.pdf'
+paperurl: 'https://github.com/victoriabiagi/JMP/raw/main/draft_0926.pdf'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
