@@ -22,7 +22,7 @@ My work mainly relates to political economy, urban economics, and economic histo
 <div style="text-align: center;">
     <p style="color: #006400;">Orrest Head, Lake District, UK</p>
 </div>
-{% endcomment %}
+
 <!-- Images side by side -->
 <div style="display: flex; justify-content: center; text-align: center; gap: 20px;">
     <img src="/images/1000126121.png" alt="Lake District view 1" style="width: 48%;"/>
