@@ -11,8 +11,8 @@ I am a postdoctoral researcher at the [Institute for Social and Economic Researc
 
 My work mainly relates to political economy, urban economics, and economic history, focusing on the economics of crime. I am currently exploring how crime, organized crime and the public policies to address them affect social outcomes and voting behaviour, utilizing georeferenced and historical data. In my free time, I enjoy painting and crafting, playing the guitar, going for runs, and travelling. 
 <!-- Next Talks -->
-<div style="margin-top: 20px;">
-    <p style="color: #006400;"><strong>Next Talks:</strong><br/>
+#<div style="margin-top: 20px;">
+ #   <p style="color: #006400;"><strong>Next Talks:</strong><br/>
     CLEAN Unit Summer Workshop <br/>
     RES 2026 Conference - University of Newcastle<br/>
     EEA 2026 - University College Dublin</p>
