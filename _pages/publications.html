@@ -8,7 +8,13 @@ classes: wide
 <style>
 @media (min-width: 64em) {
   .archive { padding-right: 0 !important; }
-  .archive * { max-width: none !important; }
+  .archive .list__item,
+  .archive .archive__item,
+  .archive .archive__item-excerpt {
+    width: 100% !important;
+    max-width: none !important;
+    float: none !important;
+  }
 }
 </style>
 
