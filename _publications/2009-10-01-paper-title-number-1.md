@@ -1,6 +1,6 @@
 ---
 title: "Beyond the Checkout: The Unseen Effects of Shopping Malls Expansion on Social Capital in Rural Italy"
-order: 4
+order: 5
 coauthor: '<span style="font-style:italic;">with <a href="https://sites.google.com/view/brunomartorano/home">Bruno Martorano</a></span>'
 # description: ''
 # infodownload: ''
