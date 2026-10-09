@@ -1,19 +1,11 @@
 ---
-title: "Beyond the Checkout: The Unseen Effects of Shopping Malls Expansion on Social Capital in Rural Italy"
+title: '<span style="opacity:0.5;">Beyond the Checkout: The Unseen Effects of Shopping Malls Expansion on Social Capital in Rural Italy</span>'
 order: 5
-coauthor: '<span style="font-style:italic;">with <a href="https://sites.google.com/view/brunomartorano/home">Bruno Martorano</a></span>'
-# description: ''
-# infodownload: ''
-
+coauthor: '<span style="font-style:italic; opacity:0.5;">with <a href="https://sites.google.com/view/brunomartorano/home">Bruno Martorano</a></span>'
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/beyond-the-checkout
 excerpt: ''
-# date: ""
-# venue: ""
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
